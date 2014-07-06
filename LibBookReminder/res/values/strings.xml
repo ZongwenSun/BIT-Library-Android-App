@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">图书馆</string>
+    <string name="internet_unavailable">网络不可用</string>
+    <string name="internet_error">网络错误</string>
+    <string name="user_pass_error">用户名或密码错误</string>
+    <string name="login_succeed">登录成功</string>
+    <string name="user_password_not_null">用户名或密码不能为空</string>
+    <string name="action_cancellation">注销并退出</string>
+    <string name="action_exit">退出</string>
+	<string name="borrowedbook">总借书量：</string>
+</resources>
